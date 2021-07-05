@@ -1,0 +1,112 @@
+[12:47:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:47:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:47:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:47:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:47:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:47:38] [main/INFO]: Reloading ResourceManager: Default
+[12:47:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[12:47:40] [Worker-Main-2/INFO]: Loaded 927 advancements
+[12:47:44] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[12:47:44] [Server thread/INFO]: Loading properties
+[12:47:44] [Server thread/INFO]: Default game type: SURVIVAL
+[12:47:44] [Server thread/INFO]: Generating keypair
+[12:47:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:47:44] [Server thread/INFO]: Using epoll channel type
+[12:47:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:47:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:47:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:47:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:47:45] [Server thread/INFO]: Preparing level "world"
+[12:47:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:47:47] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:47] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:47] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:47] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:47] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[12:47:52] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[12:47:52] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[12:47:53] [Server thread/INFO]: Preparing spawn area: 33%
+[12:47:53] [Server thread/INFO]: Preparing spawn area: 33%
+[12:47:53] [Server thread/INFO]: Preparing spawn area: 33%
+[12:47:53] [Server thread/INFO]: Preparing spawn area: 33%
+[12:47:53] [Server thread/INFO]: Preparing spawn area: 33%
+[12:47:53] [Server thread/INFO]: Preparing spawn area: 33%
+[12:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[12:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[12:47:54] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[12:47:54] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[12:47:55] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[12:47:55] [Server thread/INFO]: Preparing spawn area: 86%
+[12:47:56] [Server thread/INFO]: Time elapsed: 10738 ms
+[12:47:56] [Server thread/INFO]: Done (10.926s)! For help, type "help"
+[12:49:33] [Server thread/INFO]: lestaH[/180.191.168.148:26575] logged in with entity id 280 at (211.97306992083082, 66.0, -183.26811682259083)
+[12:49:33] [Server thread/INFO]: lestaH joined the game
+[12:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
+[12:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5612ms or 112 ticks behind
+[12:51:50] [Server thread/INFO]: lestaH was slain by Zombie
+[12:52:06] [Server thread/INFO]: poringh[/136.158.0.19:44362] logged in with entity id 601 at (204.68009110991582, 65.0, -177.25627710604562)
+[12:52:06] [Server thread/INFO]: poringh joined the game
+[12:52:17] [Server thread/INFO]: poringh was slain by Zombie
+[12:52:22] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$a.a(SourceFile:56) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) ~[server.jar:?]
+	at aof.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
+	at aob.y(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
+	at aob.c(SourceFile:127) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[12:53:27] [Server thread/INFO]: poringh fell from a high place
+[12:53:37] [Server thread/INFO]: lestaH was slain by Spider
+[12:53:43] [Server thread/INFO]: fd001[/180.191.168.148:61697] logged in with entity id 953 at (241.92362305135552, 63.0, -147.58698188449407)
+[12:53:43] [Server thread/INFO]: fd001 joined the game
+[12:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[12:53:58] [Server thread/INFO]: poringh tried to swim in lava
+[12:54:37] [Server thread/INFO]: lestaH was blown up by Creeper
+[12:54:38] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$a.a(SourceFile:56) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) ~[server.jar:?]
+	at aof.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
+	at aob.y(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
+	at aob.bl(SourceFile:103) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[12:54:58] [Server thread/INFO]: poringh was slain by Iron Golem
+[12:55:09] [Server thread/INFO]: poringh was blown up by Creeper
+[12:55:13] [Server thread/INFO]: fd001 lost connection: Disconnected
+[12:55:13] [Server thread/INFO]: fd001 left the game
+[12:55:24] [Server thread/INFO]: poringh was slain by Zombie
+[12:55:34] [Server thread/INFO]: poringh lost connection: Disconnected
+[12:55:34] [Server thread/INFO]: poringh left the game
+[12:56:14] [Server thread/INFO]: lestaH was shot by Skeleton
+[12:56:44] [Server thread/INFO]: lestaH was slain by Zombie
+[12:58:23] [Server thread/INFO]: lestaH was slain by Husk

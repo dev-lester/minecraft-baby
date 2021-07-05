@@ -1,0 +1,74 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-06-29 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-06-29 13:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-29 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-29 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-06-29 13:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-06-29 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-07-05 12:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-06-29 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-06-29 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2021-06-29 13:48:06 +0000",
+      "minecraft:desert": "2021-06-29 13:46:54 +0000",
+      "minecraft:dark_forest": "2021-06-29 13:46:30 +0000",
+      "minecraft:river": "2021-06-29 13:46:43 +0000",
+      "minecraft:savanna": "2021-07-05 12:54:16 +0000",
+      "minecraft:plains": "2021-06-29 13:46:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2021-07-05 12:54:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

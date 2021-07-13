@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-07-12 05:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-06-29 13:29:19 +0000"
@@ -279,6 +285,8 @@
     "criteria": {
       "cooked_porkchop": "2021-07-07 14:04:33 +0000",
       "cooked_mutton": "2021-07-08 11:56:02 +0000",
+      "cooked_beef": "2021-07-12 13:57:23 +0000",
+      "beef": "2021-07-12 13:55:53 +0000",
       "porkchop": "2021-07-05 14:34:10 +0000",
       "mutton": "2021-07-08 11:54:47 +0000",
       "bread": "2021-06-29 13:49:07 +0000",
@@ -687,6 +695,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-06-29 13:26:15 +0000",
       "minecraft:creeper": "2021-07-07 14:43:04 +0000",
+      "minecraft:husk": "2021-07-12 12:08:33 +0000",
       "minecraft:zombie": "2021-07-05 14:36:14 +0000",
       "minecraft:zombie_villager": "2021-07-08 13:37:49 +0000"
     },
@@ -695,6 +704,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2021-07-08 11:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-07-12 05:23:22 +0000"
     },
     "done": true
   },
@@ -1382,6 +1397,13 @@
       "has_planks": "2021-07-07 14:06:54 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-07-12 05:23:23 +0000",
+      "minecraft:nether_wastes": "2021-07-12 13:53:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {

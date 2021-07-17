@@ -646,15 +646,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2021-07-13 10:48:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2021-07-13 10:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-07-13 10:48:03 +0000"
     },
     "done": true
   },
@@ -1053,6 +1053,7 @@
       "minecraft:pillager": "2021-07-05 15:27:42 +0000",
       "minecraft:vindicator": "2021-07-05 15:29:17 +0000",
       "minecraft:spider": "2021-07-05 20:57:04 +0000",
+      "minecraft:creeper": "2021-07-16 10:30:28 +0000",
       "minecraft:husk": "2021-07-05 15:56:33 +0000",
       "minecraft:zombie": "2021-07-06 09:32:44 +0000"
     },
@@ -1241,6 +1242,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-07-05 14:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-07-16 10:27:39 +0000"
     },
     "done": true
   },

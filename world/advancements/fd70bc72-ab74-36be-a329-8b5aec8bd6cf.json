@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-07-17 19:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2021-07-10 08:13:52 +0000"
@@ -277,6 +283,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-07-17 17:59:31 +0000",
       "chicken": "2021-07-10 08:09:20 +0000",
       "cooked_mutton": "2021-07-10 09:27:05 +0000",
       "cooked_beef": "2021-07-10 08:12:50 +0000",
@@ -935,6 +942,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-07-10 09:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-07-17 18:56:52 +0000"
     },
     "done": true
   },

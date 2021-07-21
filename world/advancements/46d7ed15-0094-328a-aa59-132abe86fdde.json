@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-07-20 09:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-06-29 13:24:57 +0000"
@@ -772,6 +778,7 @@
       "minecraft:skeleton": "2021-06-29 13:26:15 +0000",
       "minecraft:spider": "2021-07-15 14:14:53 +0000",
       "minecraft:creeper": "2021-07-07 14:43:04 +0000",
+      "minecraft:zombified_piglin": "2021-07-20 09:28:00 +0000",
       "minecraft:husk": "2021-07-12 12:08:33 +0000",
       "minecraft:zombie": "2021-07-05 14:36:14 +0000",
       "minecraft:zombie_villager": "2021-07-08 13:37:49 +0000"
@@ -1117,6 +1124,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-07-15 13:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-07-20 09:32:28 +0000"
     },
     "done": true
   },
